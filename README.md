@@ -19,35 +19,9 @@
 
 ---
 
-> CS student who builds things that actually work — job trackers, ML pipelines, F1 portals.  
-> Backend-first. Java · Python · Spring Boot · MySQL.  
-> Currently crafting tools that solve real problems.
-
----
-
-### 🎒 Inventory
-
-<div align="center">
-
-| ⛏️ Mining | 🏗️ Building | 💎 Rare Drops | 🧪 Brewing |
-|:---------:|:----------:|:------------:|:---------:|
-| Python | Spring Boot | FaceNet / MTCNN | REST APIs |
-| Java | HTML / CSS / JS | CNN Pipelines | JWT Auth |
-| SQL | MySQL | BCrypt Security | Email Systems |
-
-</div>
-
----
-
-### 🏰 Structures Built
-
-🟥 &nbsp;**[career-command-center](https://github.com/ajay062002/career-command-center)** — Full-stack job tracker · Live @ [ajaylive.com](https://ajaylive.com)
-
-🟧 &nbsp;**[f1-app](https://github.com/ajay062002/f1-app)** — Spring Boot F1 portal · live standings · circuit sim · email notifications
-
-🟨 &nbsp;**[attendance-management-system](https://github.com/ajay062002/attendance-management-system)** — CNN face recognition attendance tracker using FaceNet + MTCNN
-
-🟦 &nbsp;**[resume-builder](https://github.com/ajay062002/resume-builder)** — Python resume generator
+CS student who builds things that actually work — job trackers, ML pipelines, F1 portals.  
+Backend-first. Java · Python · Spring Boot · MySQL.  
+Currently crafting tools that solve real problems.
 
 ---
 
