@@ -19,6 +19,12 @@
 
 ---
 
+> CS student who builds things that actually work — job trackers, ML pipelines, F1 portals.  
+> Backend-first. Java · Python · Spring Boot · MySQL.  
+> Currently crafting tools that solve real problems.
+
+---
+
 ### 🎒 Inventory
 
 <div align="center">
