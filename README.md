@@ -1,32 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=6AAA40&background=00000000&center=true&vCenter=true&width=600&height=55&lines=%E2%96%B6+ajay062002+joined+the+game;Spawning+cool+projects...;GG+%2F+no+re" alt="Typing SVG" />
-</div>
+## 👋 Hi, I'm Ajay Thota
 
-<br/>
+I like building things that are actually useful — clean backends, smart systems, and tools that solve real problems.
+Currently a CS student with hands-on experience in full-stack development, ML pipelines, and backend engineering.
 
-<div align="center">
+- 🔨 &nbsp;Building: Full-stack web apps · ML systems · REST APIs
+- 🛠️ &nbsp;Stack: `Java` · `Spring Boot` · `Python` · `MySQL` · `HTML/CSS/JS`
+- 🎯 &nbsp;Targeting: Software Engineering · ML Engineering
 
-```
-╔══════════════════════════════════════════╗
-║           PLAYER: Ajay Thota            ║
-║           CLASS:  CS Student            ║
-║           BIOME:  Full-Stack Dev        ║
-║           HEALTH: ██████████ 100%       ║
-╚══════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-CS student who builds things that actually work — job trackers, ML pipelines, F1 portals.  
-Backend-first. Java · Python · Spring Boot · MySQL.  
-Currently crafting tools that solve real problems.
-
----
-
-<div align="center">
-
-*"Don't mine straight down."* ⛏️
-
-</div>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ajay062002.ajay062002&style=flat-square&color=6AAA40&labelColor=1a1a1a)
