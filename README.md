@@ -51,18 +51,7 @@
 
 ---
 
-### 📊 Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajay062002&show_icons=true&hide_border=true&bg_color=141414&title_color=6AAA40&icon_color=6AAA40&text_color=aaaaaa&ring_color=6AAA40" height="155" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay062002&layout=compact&hide_border=true&bg_color=141414&title_color=6AAA40&text_color=aaaaaa" height="155" alt="langs" />
-</div>
-
----
-
-<div align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ajay062002.ajay062002&style=flat-square&color=6AAA40&labelColor=1a1a1a)
 
 *"Don't mine straight down."* ⛏️
 
